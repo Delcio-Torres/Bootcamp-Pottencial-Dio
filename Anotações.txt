@@ -1,4 +1,4 @@
 
-Primeiro BootCamp da DIO.
+Primeiro BootCamp da DIO. Pottencial .NET Developer
 
-Pottencial .NET Developer
+Próximo tópico: Conhecendo a Plataforma .NET com C#.
