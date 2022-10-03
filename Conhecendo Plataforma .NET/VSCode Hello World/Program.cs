@@ -1,23 +1,35 @@
-﻿
-Console.WriteLine("Digite uma letra: ");
-string letra = Console.ReadLine();
+﻿using VSCode_Hello_World.Models;
 
-switch(letra){
+Calculadora calc = new Calculadora();
 
-    case "a":
-    case "e":
-    case "i":
-    case "o":
-    case "u":
+calc.Somar(10,10);
+calc.Subtrair(10,10);
+calc.Multiplicar(10,10);
+calc.Dividir(10,10);
 
-        Console.WriteLine("Vogal");
-        break;
 
-    default:
-        Console.WriteLine("Consoante");
-        break;
 
-}
+
+//----------------------------------------------------
+// Console.WriteLine("Digite uma letra: ");
+// string letra = Console.ReadLine();
+
+// switch(letra){
+
+//     case "a":
+//     case "e":
+//     case "i":
+//     case "o":
+//     case "u":
+
+//         Console.WriteLine("Vogal");
+//         break;
+
+//     default:
+//         Console.WriteLine("Consoante");
+//         break;
+
+// }
 
 
 
