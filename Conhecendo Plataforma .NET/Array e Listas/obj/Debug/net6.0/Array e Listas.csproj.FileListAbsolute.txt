@@ -1,0 +1,15 @@
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Array e Listas\bin\Debug\net6.0\Array e Listas.exe
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Array e Listas\bin\Debug\net6.0\Array e Listas.deps.json
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Array e Listas\bin\Debug\net6.0\Array e Listas.runtimeconfig.json
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Array e Listas\bin\Debug\net6.0\Array e Listas.dll
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Array e Listas\bin\Debug\net6.0\Array e Listas.pdb
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Array e Listas\obj\Debug\net6.0\Array e Listas.csproj.AssemblyReference.cache
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Array e Listas\obj\Debug\net6.0\Array e Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Array e Listas\obj\Debug\net6.0\Array e Listas.AssemblyInfoInputs.cache
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Array e Listas\obj\Debug\net6.0\Array e Listas.AssemblyInfo.cs
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Array e Listas\obj\Debug\net6.0\Array e Listas.csproj.CoreCompileInputs.cache
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Array e Listas\obj\Debug\net6.0\Array e Listas.dll
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Array e Listas\obj\Debug\net6.0\refint\Array e Listas.dll
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Array e Listas\obj\Debug\net6.0\Array e Listas.pdb
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Array e Listas\obj\Debug\net6.0\Array e Listas.genruntimeconfig.cache
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Array e Listas\obj\Debug\net6.0\ref\Array e Listas.dll
