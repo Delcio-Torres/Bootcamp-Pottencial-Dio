@@ -5,13 +5,20 @@ using System.Threading.Tasks;
 
 namespace ExemploFundamentos.Common.Models
 {
+    /// <summary>
+    /// Representa o objeto Pessoa
+    /// </summary>
     public class Pessoa
     {
          public string Nome { get; set; }
         public int Idade { get; set; }
 
-        public string apresenta(){
-            return $"Meu nome é {Nome} e tenho {Idade} anos";
+
+        /// <summary>
+        /// Método para apresentar pessoa 
+        /// </summary>
+        public void apresenta(){
+            Console.WriteLine($"Meu nome é {Nome} e tenho {Idade} anos");
         }       
     }
 }

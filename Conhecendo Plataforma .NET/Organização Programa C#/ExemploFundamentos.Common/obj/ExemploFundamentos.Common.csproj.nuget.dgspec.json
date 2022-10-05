@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\RepositorioDio\\BootcampPottencial\\Conhecendo Plataforma .NET\\Organização Programa C#\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {}
+    "C:\\workspace\\RepositorioDio\\BootcampPottencial\\Conhecendo Plataforma .NET\\organização programa c#\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\RepositorioDio\\BootcampPottencial\\Conhecendo Plataforma .NET\\Organização Programa C#\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+    "C:\\workspace\\RepositorioDio\\BootcampPottencial\\Conhecendo Plataforma .NET\\organização programa c#\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\RepositorioDio\\BootcampPottencial\\Conhecendo Plataforma .NET\\Organização Programa C#\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectUniqueName": "C:\\workspace\\RepositorioDio\\BootcampPottencial\\Conhecendo Plataforma .NET\\organização programa c#\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "projectName": "ExemploFundamentos.Common",
-        "projectPath": "C:\\workspace\\RepositorioDio\\BootcampPottencial\\Conhecendo Plataforma .NET\\Organização Programa C#\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectPath": "C:\\workspace\\RepositorioDio\\BootcampPottencial\\Conhecendo Plataforma .NET\\organização programa c#\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "packagesPath": "C:\\Users\\TioJei\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\RepositorioDio\\BootcampPottencial\\Conhecendo Plataforma .NET\\Organização Programa C#\\ExemploFundamentos.Common\\obj\\",
+        "outputPath": "C:\\workspace\\RepositorioDio\\BootcampPottencial\\Conhecendo Plataforma .NET\\organização programa c#\\ExemploFundamentos.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TioJei\\AppData\\Roaming\\NuGet\\NuGet.Config",

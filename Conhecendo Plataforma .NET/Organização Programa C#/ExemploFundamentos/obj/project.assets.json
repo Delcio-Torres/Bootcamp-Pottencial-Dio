@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\RepositorioDio\\BootcampPottencial\\Conhecendo Plataforma .NET\\Organização Programa C#\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectUniqueName": "C:\\workspace\\RepositorioDio\\BootcampPottencial\\Conhecendo Plataforma .NET\\organização programa c#\\exemplofundamentos\\ExemploFundamentos.csproj",
       "projectName": "ExemploFundamentos",
-      "projectPath": "C:\\workspace\\RepositorioDio\\BootcampPottencial\\Conhecendo Plataforma .NET\\Organização Programa C#\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectPath": "C:\\workspace\\RepositorioDio\\BootcampPottencial\\Conhecendo Plataforma .NET\\organização programa c#\\exemplofundamentos\\ExemploFundamentos.csproj",
       "packagesPath": "C:\\Users\\TioJei\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\RepositorioDio\\BootcampPottencial\\Conhecendo Plataforma .NET\\Organização Programa C#\\ExemploFundamentos\\obj\\",
+      "outputPath": "C:\\workspace\\RepositorioDio\\BootcampPottencial\\Conhecendo Plataforma .NET\\organização programa c#\\exemplofundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TioJei\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\workspace\\RepositorioDio\\BootcampPottencial\\Conhecendo Plataforma .NET\\Organização Programa C#\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
-              "projectPath": "C:\\workspace\\RepositorioDio\\BootcampPottencial\\Conhecendo Plataforma .NET\\Organização Programa C#\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
+            "C:\\workspace\\RepositorioDio\\BootcampPottencial\\Conhecendo Plataforma .NET\\organização programa c#\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+              "projectPath": "C:\\workspace\\RepositorioDio\\BootcampPottencial\\Conhecendo Plataforma .NET\\organização programa c#\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
             }
           }
         }

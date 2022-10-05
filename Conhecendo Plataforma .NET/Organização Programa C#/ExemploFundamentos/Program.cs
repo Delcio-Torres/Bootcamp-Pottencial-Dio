@@ -10,3 +10,6 @@ Console.Write("Qual o seu nome: ");
 p.Nome = Console.ReadLine();
 Console.Write("Qual a sua idade: ");
 p.Idade = int.Parse( Console.ReadLine());
+
+
+p.apresenta();
