@@ -1,0 +1,12 @@
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Organização Programa C#\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.deps.json
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Organização Programa C#\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.dll
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Organização Programa C#\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.pdb
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Organização Programa C#\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.csproj.AssemblyReference.cache
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Organização Programa C#\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Organização Programa C#\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Organização Programa C#\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.AssemblyInfo.cs
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Organização Programa C#\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Organização Programa C#\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.dll
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Organização Programa C#\ExemploFundamentos.Common\obj\Debug\net6.0\refint\ExemploFundamentos.Common.dll
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Organização Programa C#\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.pdb
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Organização Programa C#\ExemploFundamentos.Common\obj\Debug\net6.0\ref\ExemploFundamentos.Common.dll
