@@ -1,12 +1,17 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+
 
 namespace Explorando_a_linguagem.Models
 {
     public class Pessoa
     {
+        //construtor
+        public Pessoa(string nome, string sobrenome){
+            Nome = nome;
+            Sobrenome = sobrenome;
+        }
+
+        public Pessoa(){
+        }
 
         private string _nome;
         private int _idade;
@@ -19,7 +24,7 @@ namespace Explorando_a_linguagem.Models
                 }
                 _nome = value;
             } 
-        }    
+        }
         public int Idade { get; set; }
 
         public void Apresentar(){

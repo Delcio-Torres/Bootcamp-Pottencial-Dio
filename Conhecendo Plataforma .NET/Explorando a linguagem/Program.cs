@@ -2,16 +2,15 @@
 
 using Explorando_a_linguagem.Models;
 
+Pessoa p1 = new Pessoa("Delcio", "Torres");
+Pessoa p2 = new Pessoa("Gabriel", "Rodrigues");
 
-Pessoa p1 = new Pessoa();
-p1.Nome = "Delcio";
-p1.Sobrenome = "Torres";
-
-Pessoa p2 = new Pessoa();
-p2.Nome = "Gabriel";
-p2.Sobrenome = "Rodrigues";
+// p1.Nome = "Delcio";
+// p1.Sobrenome = "Torres";
 
 
+// p2.Nome = "Gabriel";
+// p2.Sobrenome = "Rodrigues";
 
 Curso cursoIngles = new Curso();
 cursoIngles.Nome = "Inglês";
@@ -20,10 +19,6 @@ cursoIngles.Alunos = new List<Pessoa>();
 cursoIngles.AdicionarAluno(p1);
 cursoIngles.AdicionarAluno(p2);
 cursoIngles.ListarAlunos();
-
-
-
-
 
 
 
