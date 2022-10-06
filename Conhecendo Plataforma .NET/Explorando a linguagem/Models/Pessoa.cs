@@ -10,8 +10,9 @@ namespace Explorando_a_linguagem.Models
 
         private string _nome;
         private int _idade;
-        
-        public string Nome { get => _nome.ToLower();
+        public string Sobrenome { get; set; }
+        public string NomeCompleto => $"{Nome} {Sobrenome}";
+        public string Nome { get => _nome;
             set{
                 if( value == "" ){
                     throw new ArgumentException("Esse campo não pode ser nulo");
@@ -22,7 +23,7 @@ namespace Explorando_a_linguagem.Models
         public int Idade { get; set; }
 
         public void Apresentar(){
-            Console.WriteLine($"Voce é o {Nome} e você tem {Idade} anos");
+            Console.WriteLine($"Voce é o {NomeCompleto} e você tem {Idade} anos");
         }
     }
 }
