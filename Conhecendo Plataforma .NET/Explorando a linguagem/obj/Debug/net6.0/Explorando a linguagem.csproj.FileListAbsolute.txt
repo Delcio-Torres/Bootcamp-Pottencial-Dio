@@ -1,0 +1,15 @@
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Explorando a linguagem\obj\Debug\net6.0\Explorando a linguagem.csproj.AssemblyReference.cache
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Explorando a linguagem\obj\Debug\net6.0\Explorando a linguagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Explorando a linguagem\obj\Debug\net6.0\Explorando a linguagem.AssemblyInfoInputs.cache
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Explorando a linguagem\obj\Debug\net6.0\Explorando a linguagem.AssemblyInfo.cs
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Explorando a linguagem\obj\Debug\net6.0\Explorando a linguagem.csproj.CoreCompileInputs.cache
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Explorando a linguagem\bin\Debug\net6.0\Explorando a linguagem.exe
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Explorando a linguagem\bin\Debug\net6.0\Explorando a linguagem.deps.json
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Explorando a linguagem\bin\Debug\net6.0\Explorando a linguagem.runtimeconfig.json
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Explorando a linguagem\bin\Debug\net6.0\Explorando a linguagem.dll
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Explorando a linguagem\bin\Debug\net6.0\Explorando a linguagem.pdb
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Explorando a linguagem\obj\Debug\net6.0\Explorando a linguagem.dll
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Explorando a linguagem\obj\Debug\net6.0\refint\Explorando a linguagem.dll
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Explorando a linguagem\obj\Debug\net6.0\Explorando a linguagem.pdb
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Explorando a linguagem\obj\Debug\net6.0\Explorando a linguagem.genruntimeconfig.cache
+C:\workspace\RepositorioDio\BootcampPottencial\Conhecendo Plataforma .NET\Explorando a linguagem\obj\Debug\net6.0\ref\Explorando a linguagem.dll
