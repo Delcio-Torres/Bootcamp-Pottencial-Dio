@@ -14,7 +14,7 @@ namespace Explorando_a_linguagem.Models
         }
 
         private string _nome;
-        private int _idade;
+        //private int _idade;
         public string Sobrenome { get; set; }
         public string NomeCompleto => $"{Nome} {Sobrenome}";
         public string Nome { get => _nome;
@@ -25,10 +25,10 @@ namespace Explorando_a_linguagem.Models
                 _nome = value;
             } 
         }
-        public int Idade { get; set; }
+        //public int Idade { get; set; }
 
         public void Apresentar(){
-            Console.WriteLine($"Voce é o {NomeCompleto} e você tem {Idade} anos");
+            //Console.WriteLine($"Voce é o {NomeCompleto} e você tem {Idade} anos");
         }
     }
 }

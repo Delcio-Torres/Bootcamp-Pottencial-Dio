@@ -23,10 +23,14 @@ namespace Explorando_a_linguagem.Models
         }
 
         public void ListarAlunos(){
+            Console.Clear();
             Console.WriteLine($"Alunos do Curso de {Nome}");
+            int contador = 1;
             foreach(Pessoa aluno in Alunos){
-                Console.WriteLine(aluno.NomeCompleto);
+                Console.WriteLine($"Nº {contador} - {aluno.NomeCompleto}");
+                contador++;
             }
+            Console.ReadKey();
         }
     }
 }

@@ -1,0 +1,2 @@
+Criei um aquivo
+e vou ler o conteúdo desse arquivo
